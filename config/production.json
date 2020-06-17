@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://todo:todo.1212@todo-ioosv.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken"
+}

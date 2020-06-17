@@ -1,0 +1,28 @@
+.todo {
+  border: 0px solid grey;
+  box-shadow: 1px 3px 2px 0px darkgrey;
+  text-shadow: 0 0 black;
+}
+.container {
+  padding-top: 50px;
+  text-align: center;
+  width: 70%;
+  margin: auto;
+}
+.todoItem {
+  /* padding-top: 50px; */
+  /* text-align: center; */
+  width: 45%;
+  /* margin: auto; */
+}
+.addTodoItem {
+  width: 37%;
+}
+
+.searchInput {
+  width: 37%;
+}
+
+.done {
+  text-decoration: line-through;
+}
